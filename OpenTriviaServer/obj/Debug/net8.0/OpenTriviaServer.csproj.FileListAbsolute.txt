@@ -1,0 +1,14 @@
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\bin\Debug\net8.0\OpenTriviaServer.exe
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\bin\Debug\net8.0\OpenTriviaServer.deps.json
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\bin\Debug\net8.0\OpenTriviaServer.runtimeconfig.json
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\bin\Debug\net8.0\OpenTriviaServer.dll
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\bin\Debug\net8.0\OpenTriviaServer.pdb
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.AssemblyInfoInputs.cache
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.AssemblyInfo.cs
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.csproj.CoreCompileInputs.cache
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.dll
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\refint\OpenTriviaServer.dll
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.pdb
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\OpenTriviaServer.genruntimeconfig.cache
+C:\Users\vidak\Radna površina\OpenTriviaServer_Tasks_Student_NoCancellation\OpenTriviaServer\obj\Debug\net8.0\ref\OpenTriviaServer.dll
